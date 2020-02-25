@@ -3,7 +3,8 @@ Git Exploration for iOS PT2's Unit 4 Build Sprint
 
 ## Self Introductions
 
-Name: Dimitri Bouniol
-Favorite Food: Sushi
-Favorite Color: Orange
+Name: Vici
+Favorite Food: Ramen
+Favorite Color: Pink
+
 
