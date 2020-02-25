@@ -3,7 +3,7 @@ Git Exploration for iOS PT2's Unit 4 Build Sprint
 
 ## Self Introductions
 
-Name: Bob
-Favorite Food: Steak
+Name: Irtimid
+Favorite Food: Pasta
 Favorite Color: Red
 
