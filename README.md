@@ -1,9 +1,7 @@
 # ios-pt2-bw4-git-exploration
 Git Exploration for iOS PT2's Unit 4 Build Sprint
 
-## Self Introductions
 
-Name: Bob
-Favorite Food: Steak
-Favorite Color: Red
-
+Name: John Kouris
+Favorite Food: Pizza
+Favorite Color: Blue
