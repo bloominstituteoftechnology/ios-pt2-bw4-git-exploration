@@ -3,7 +3,7 @@ Git Exploration for iOS PT2's Unit 4 Build Sprint
 
 ## Self Introductions
 
-Name: Robert Keffury
-Favorite Food: Leftovers
-Favorite Color: Blue
+Name: Test
+Favorite Food: Test
+Favorite Color: Test
 
