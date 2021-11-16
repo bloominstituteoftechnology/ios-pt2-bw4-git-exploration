@@ -103,7 +103,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1130;
-				ORGANIZATIONNAME = "Lambda School";
+				ORGANIZATIONNAME = "BloomTech";
 				TargetAttributes = {
 					877C6C1E24061D160056ACBB = {
 						CreatedOnToolsVersion = 11.3.1;
